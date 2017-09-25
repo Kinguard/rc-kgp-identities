@@ -4,17 +4,17 @@
     http://pear.php.net/dtd/package-2.0
     http://pear.php.net/dtd/package-2.0.xsd">
 	<name>opi_identities</name>
-	<summary>OPI identities</summary>
-	<description>Plugin to integrate RC with the identities at OPI.</description>
+	<summary>KGP identities</summary>
+	<description>Plugin to integrate RC with the identities at KGP.</description>
 	<lead>
 		<name>Tor krill</name>
 		<email>tor@openproducts.se</email>
 		<active>yes</active>
 	</lead>
-	<date>2015-01-05</date>
+	<date>2017-09-25</date>
 	<version>
-		<release>1.0</release>
-		<api>1.0</api>
+		<release>1.1</release>
+		<api>1.1</api>
 	</version>
 	<stability>
 		<release>stable</release>

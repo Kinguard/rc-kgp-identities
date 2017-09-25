@@ -1,3 +1,9 @@
+rc-opi-identities (1.1) vili; urgency=medium
+
+  * Updated for Keep
+
+ -- Tor Krill <tor@openproducts.se>  Mon, 25 Sep 2017 15:32:54 +0200
+
 rc-opi-identities (0.5) vili; urgency=low
 
   * Initial release
