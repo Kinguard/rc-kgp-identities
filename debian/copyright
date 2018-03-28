@@ -3,8 +3,8 @@ Upstream-Name: rc-opi-identities
 Source: http://www.openproducts.com
 
 Files: *
-Copyright: 2015 Tor Krill <tor@openproducts.se>
-License: GPL-3.0+
+Copyright: 2015-2018 Tor Krill <tor@openproducts.se>
+License: AGPLv3
 
 License: GPL-3.0+
  This program is free software: you can redistribute it and/or modify
