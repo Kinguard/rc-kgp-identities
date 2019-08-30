@@ -1,3 +1,9 @@
+rc-opi-identities (1.2) vili; urgency=medium
+
+  * Buster update
+
+ -- Tor Krill <tor@openproducts.se>  Fri, 30 Aug 2019 11:37:27 +0200
+
 rc-opi-identities (1.1) vili; urgency=medium
 
   * Updated for Keep
